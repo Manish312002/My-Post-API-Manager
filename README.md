@@ -1,6 +1,6 @@
-# MyPostAPI
+# MyPostAPIManager
 
-**MyPostAPI** is a project that provides a custom API for managing blog posts. It includes both a backend API and a frontend interface, allowing users to create, view, update, and delete posts.
+**MyPostAPIManager** is a project that provides a custom API for managing blog posts. It includes both a backend API and a frontend interface, allowing users to create, view, update, and delete posts.
 
 ## Features
 
@@ -15,3 +15,7 @@
 - **Backend:** Express.js, body-parser
 - **Frontend:** Express.js, EJS
 - **API Communication:** Axios
+
+## Install NPM package
+
+- Run **npm i** 
